@@ -8,29 +8,35 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🔭 I’m currently working on [PlyPicker](https://www.plypicker.com)
+<img align="right" alt="Coding" width="450" style="margin-top: 10px; margin-bottom: 10px;" 
+src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
+
+- 🔭 I’m currently working on [PLYPICKER](https://www.plypicker.com)
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Web-Dev
 - 📫 How to reach me: saksham140023@gmail.com
 - ⚡ Fun fact: I'm Kind of an early bird who develops in the morning and loves mentoring in the evening
----
-### Connect with me:
+
+
+
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
   <a href="http://www.instagram.com/saksham__.__/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" width="32" height="32" style="margin-right: 20px;"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" width="32" height="32" style="margin-right: 30px;"/>
   </a>
   <a href="https://www.linkedin.com/in/shandilya-saksham-full-stack-developer/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" style="margin-right: 20px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" style="margin-right: 30px;"/>
   </a>
   <a href="https://www.x.com/saksham140023" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Twitter" width="32" height="32"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"  alt="Twitter" width="32" height="32"/>
   </a>
 </p> 
 
 ---
 
-### 🧰 Languages and Tools
+<h3 align="left">Languages and Tools:</h3>
 
 
 <p align="center">
@@ -40,7 +46,7 @@
 
 ---
 
-### My GitHub Stats
+<h3 align="left">My Github Stats</h3>
 
 
 | ![Saksham Shandilya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakshamShandilya&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamShandilya&layout=compact&theme=tokyonight) |
@@ -58,5 +64,19 @@
 
 
 
-**Thanks for exploring my profile! 🚀 Check out my pinned repositories for more exciting projects. If you appreciate my work, feel free to give it a ⭐️. Have any questions or suggestions? Raise an issue! 📣 Let's discuss and collaborate for further improvements. 🌟**
+
+<p align="center">
+  <strong>Thanks for exploring my profile!</strong>
+</p>
+
+<p align="center">
+  🚀 Check out my pinned repositories for more exciting projects. Have any questions or suggestions? Raise an issue! 📣
+</p>
+
+<p align="center">
+ If you appreciate my work, feel free to give it a ⭐️ 
+</p>
+
+
+
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
