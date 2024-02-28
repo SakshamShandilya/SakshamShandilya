@@ -56,6 +56,17 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SakshamShandilya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+
 ### Profile Visitor Counter
 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
