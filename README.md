@@ -62,8 +62,6 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 
