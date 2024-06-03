@@ -13,7 +13,7 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 
 
 - 🔭 I’m currently working on [PLYPICKER](https://www.plypicker.com)
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on Web-Dev
 - 📫 How to reach me: saksham140023@gmail.com
 - ⚡ Fun fact: I'm Kind of an early bird who develops in the morning and loves mentoring in the evening
