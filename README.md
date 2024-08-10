@@ -88,12 +88,6 @@ src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-
 </p>
 
 
-## Support Me
-
-If you like my work, consider buying me a coffee:
-
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=saksham1403&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://buymeacoffee.com/saksham1403)
-
-
-
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+</p>
